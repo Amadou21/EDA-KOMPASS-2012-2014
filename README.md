@@ -30,7 +30,7 @@ L’analyse porte sur plusieurs aspects :
 
 1. Cloner le dépôt
 ```bash
-git clone https://github.com/ton-profil/kompass-rapport.git
+git clone [https://github.com/ton-profil/kompass-rapport.git](https://github.com/Amadou21/EDA-KOMPASS-2012-2014)
 cd kompass-rapport
 ```
 2. Installer les dépendances
